@@ -1,4 +1,3 @@
-  <img src="https://raw.githubusercontent.com/cleversamerr/cleversamerr/main/img/header.png" alt="Header" width="100%" />
 
 <br>
 
